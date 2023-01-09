@@ -1,5 +1,9 @@
 PocketMine-MP Plugin Example
 
+Version: 1.0.0
+
+Api: 4.0.0
+
 Bug Can Fix Me :D
 
 Discord: Desmeng666#7361
