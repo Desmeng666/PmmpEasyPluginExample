@@ -1,0 +1,5 @@
+name: YouPluginName
+author: Desmeng666
+main: Name\Core\Server\Main
+api: 4.0.0
+version: 1.0.0
